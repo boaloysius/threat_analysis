@@ -32,25 +32,11 @@ class Logger(object):
 sys.stdout = Logger()
 
 #authenticaing twitter api user
-#consumer_key="3IQSCfwKEpZrzhzbb9tNh97ef"
-#consumer_secret="BJTX7AirnX2lx1gYpbMO0kYdpapJ9T2zAtCcpgCjRKSWVkG4Tq"
-#access_token="2903480370-rHqJZnGM13R8La3CcURPvfpQQQ1GWActgiucaMD"
-#access_token_secret="JZQhhPKnWEhmi9TvfCMvIgoeRR6ZdHFH8itGl2YEtvEen"
 
-#consumer_key="OMSte2W3X7wEtGcPyE00hTsdc"
-#consumer_secret="dMumB2l97KwZK9W5CRZEgK4BUxLt9CjgqZnjTUKrhzzBkDbfZw"
-#access_token="2903480370-r4PSSsvqrfPnEXrlOiOUs7pXdMjOGR9cmiWCu3p"
-#access_token_secret="3ob5CFtAW0UCutYlkxUoo2LnnZiGPhpeqD3qS6cAyOuHp"
-
-consumer_key="ruVYXIGbeDMbZcKXTBbV7GCxv"
-consumer_secret="FDq6cfLtYi7hKrd395S4QcPYXDf91Qb8kxK444aXi42Ies4Vau"
-access_token="2903480370-L2x4s7UYDdo0oLM5GKRgUdgy6wkKAIIlT97No7R"
-access_token_secret="TPCLMmmIK4VuThb3Y7aYq40Jsr2CKhISzE0l4r0XRXrNt"
-
-#consumer_key="40VYKBHqvgvSR5mPO4h1vans4"
-#consumer_secret="fEzpxvaIMAiL8UVgK9qH1aIzpeBwgGVf3YsCBysvKn0XRTYNSl"
-#access_token="856795636032655360-U4yusdL3qjK3p4UlfPe53XLp6kMPmdc"
-#access_token_secret="L82jhIDG2VdxndTmTBaPTdMYfICr5P0jLPST90lm1vM39"
+consumer_key=""
+consumer_secret=""
+access_token=""
+access_token_secret=""
 
 #get neo4j set up
 #note, you have to have neo4j running and on the default port
